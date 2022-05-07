@@ -9,10 +9,8 @@ export const GifExpertApp = () => {
 
     // const handleAdd = () => {
     //     setCategories( ['Xhunter', ...categories]);
-    //     //setCategories( cats => ['Xhunter', ...categories]); //otramanera
-        
+    //     //setCategories( cats => ['Xhunter', ...categories]); //otramanera        
     // }
-
     //abajo de hr /* <button onClick={ handleAdd }>Agregar</button> */
 
     return (
